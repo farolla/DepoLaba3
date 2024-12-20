@@ -50,7 +50,7 @@ Copy
 ```bash
 git clone https://github.com/your-username/MyApi.git
 cd MyApi
-3. Настройте строку подключения
+### 3. Настройте строку подключения
 Откройте файл appsettings.json и настройте строку подключения к вашей базе данных:
 
 json
@@ -60,13 +60,13 @@ Copy
     "DefaultConnection": "Server=localhost;Database=MyDatabase;Trusted_Connection=True;TrustServerCertificate=True;"
   }
 }
-4. Выполните миграции
+### 4. Выполни миграцию
 Создайте базу данных и примените миграции:
 
 bash
 Copy
 dotnet ef database update
-5. Запустите приложение
+### 5. Запустите приложение
 bash
 Copy
 dotnet run
@@ -76,7 +76,7 @@ HTTP: http://localhost:5017
 
 Swagger UI: http://localhost:5017/swagger
 
-📝 Примеры API
+### 📝 Примеры API
 Пользователи
 GET /api/users — Получить всех пользователей.
 
