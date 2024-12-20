@@ -47,7 +47,7 @@ text
 
 ### 2. Клонируйте репозиторий
 
-git clone https://github.com/your-username/MyApi.git
+git clone https://github.com/farolla/DepoLaba3/tree/main
 cd MyApi
 text
 
