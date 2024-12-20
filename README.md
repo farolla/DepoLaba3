@@ -43,7 +43,7 @@ text
 
 ### 1. Установите .NET SDK
 
-Убедитесь, что у вас установлен .NET SDK. Скачайте его с [официального сайта](https://dotnet.microsoft.com/download).
+Убедитесь, что у вас установлен .NET SDK. Скачайте его с [официального сайта](https://github.com/farolla/DepoLaba3/tree/main).
 
 ### 2. Клонируйте репозиторий
 
